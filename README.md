@@ -1,3 +1,4 @@
+[Financial_Inclusion_Dashboard_Power_BI.pdf](https://github.com/user-attachments/files/28177010/Financial_Inclusion_Dashboard_Power_BI.pdf)
 # Financial Inclusion Analysis Project
 
 ## Tools Used
